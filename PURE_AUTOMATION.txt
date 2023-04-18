@@ -12,7 +12,7 @@
 #                       Public-ip (Dynamic) for each VM,                         #
 #            and a nic for each VM. The VM sizes are Standard_DS2_v2.            #
 #                                                                                #
-#                        Created By Mehmet Nuri Cetin                                 #
+#                        Created By Mehmet Nuri Cetin                            #
 #                                                      
 #                                                                                #
 ##################################################################################
